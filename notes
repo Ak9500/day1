@@ -1,0 +1,19 @@
+http 1.1  vs https2
+post upload http1.1
+host:www.example.org
+content-type:application/json
+content-length:15
+
+https2
+application(https2)
+binary framing
+session(tls)(optional)
+transport(tcp)
+network(ip)
+
+
+javascript
+The Original JavaScript ES1 ES2 ES3 (1997-1999)
+The First Main Revision ES5 (2009)
+The Second Revision ES6 (2015)
+All Yearly Additions (2016, 2017, 2018, 2019, 2020)
